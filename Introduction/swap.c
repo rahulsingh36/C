@@ -4,6 +4,7 @@ int main(){
     printf("enter a and b");
     scanf("%d %d",&x,&y);
     
+    
     x=x+y;
     y=x-y;
     x=x-y;
