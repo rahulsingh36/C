@@ -8,5 +8,5 @@ int main()
 		"size of int in bytes = %zu\n"
 		"size of int in bits = %zu",
 		INT_MIN, INT_MAX, sizeof(int),
-		sizeof(int) * CHAR_BIT);
+		sizeof(int) * CHAR_BIT); 
 }
