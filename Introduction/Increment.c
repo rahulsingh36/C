@@ -13,6 +13,5 @@ int main(){
     y = x++;
     printf("The value of x is %d",x);
     printf("\n");
-
     printf("The value of y is %d",y);
 }
